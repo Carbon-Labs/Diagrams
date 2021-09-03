@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T04:44:31.930Z" agent="5.0 (Macintosh)" etag="zEY-CeU3AB1BQz2GYuna" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T05:14:54.205Z" agent="5.0 (Macintosh)" etag="SmKTB5E6EpeOghIDs3BC" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="946" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Adds Liquidity To&lt;br&gt;CarbSwap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -21,33 +21,75 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="$CARB&lt;br&gt;Added?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="270" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1-dooj9AhtdP8kJSdxU_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;sketch=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" as="targetPoint" />
+            <mxPoint x="240" y="70" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" />
-              <mxPoint x="250" />
+              <mxPoint x="380" y="70" />
+              <mxPoint x="240" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Issue $KEYS&lt;br&gt;(1 $KEY = 1 CARB)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Issue COI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="470" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Wants Insurance?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="390" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1-dooj9AhtdP8kJSdxU_-0" value="LPer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="-20" width="30" height="60" as="geometry" />
+          <mxGeometry x="205" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-2" value="10% Cover" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-3" value="25% Cover" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-4" value="&lt;div&gt;50% Cover&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-5" value="75% Cover" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-6" value="100% Cover" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="360" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-dooj9AhtdP8kJSdxU_-8" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-8" value="Cover Paid For With&lt;br&gt;$CARB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-dooj9AhtdP8kJSdxU_-9" target="1-dooj9AhtdP8kJSdxU_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="360" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-12" value="&lt;h1&gt;COI&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Certificate of Insurance&lt;/b&gt; (COI) is an NFT that contains information related to a Liquidity Providers deposit for the purpose of providing Impermanent Loss Insurance.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For any CARB deposited, they get this insurance automatically.&lt;br&gt;&lt;br&gt;For other tokens, they need to purchase if desired.&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;sketch=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="910" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1-dooj9AhtdP8kJSdxU_-14" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="560" as="sourcePoint" />
+            <mxPoint x="760" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
