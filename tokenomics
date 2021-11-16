@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T04:37:30.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="v1ISygednxYSY3uUIgMT" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T07:11:26.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="27Ljx-8nt_kWFAWHpWZx" version="15.7.4" type="github">
   <diagram id="_UXg3EZRKqw_mdlAzJet" name="Page-1">
     <mxGraphModel dx="1220" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -86,6 +86,18 @@
         </mxCell>
         <mxCell id="D2ZCNkbm8fRq1mOS2lMq-22" value="CarbSwap LP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D2ZCNkbm8fRq1mOS2lMq-25" value="Graphite" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D2ZCNkbm8fRq1mOS2lMq-26" value="$CARB Distribution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2ZCNkbm8fRq1mOS2lMq-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="D2ZCNkbm8fRq1mOS2lMq-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="471" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
