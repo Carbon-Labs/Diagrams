@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T03:17:59.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="evbDKRIM1cLbi09aRwvA" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T03:53:02.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Cv_QBLtPENe1TowLhU-l" version="15.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,10 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-22" value="Extra reward for GRAPH / CARB&lt;br&gt;LPers (1st week)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-23" value="90% returned to Team" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-23" target="CI9n8jhhGB8RwnVAwCXR-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-23" value="Balance returned&lt;br&gt;to Team" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
