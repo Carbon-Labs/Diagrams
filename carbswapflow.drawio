@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T03:04:49.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="p6G5za14KyqDO9mx87rm" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T03:08:34.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="s1J-vjbety4mir-y116X" version="15.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,20 +38,25 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-9" value="Launch&lt;br&gt;CarbSwap" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="260" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-19" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-19" target="CI9n8jhhGB8RwnVAwCXR-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-15" target="CI9n8jhhGB8RwnVAwCXR-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="425" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-15" value="Remove Liquidity From ZilSwap&lt;br&gt;&lt;br&gt;Leaving 500k ZIL in pool." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-19" value="ZilSwap Pool" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-22" value="10% to be used as extra reward for GRAPH / CARB&lt;br&gt;LPers&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-23" value="90% returned to Team" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
