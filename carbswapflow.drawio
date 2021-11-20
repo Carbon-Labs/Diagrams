@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T06:00:48.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lb5oOQWw5ToVZsJg0bGg" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T08:23:07.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Xswg4ujOECs3MjsgGqqG" version="15.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1113" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-15" value="Remove Liquidity From ZilSwap&lt;br&gt;&lt;br&gt;Leaving 250k ZIL in pool." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-15" value="Partially remove Liquidity From ZilSwap&lt;br&gt;&lt;br&gt;Leaving 250k ZIL in pool." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="380" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-22" value="Extra ZIL reward for GRAPH / CARB&lt;br&gt;LPers (1st week)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -92,20 +92,26 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-23" value="Balance returned&lt;br&gt;to Team" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-30" target="CI9n8jhhGB8RwnVAwCXR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-30" value="250K ZIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-34" value="CARB / ZIL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-34" value="ZIL / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="770" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-37" value="CARB / ZIL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-37" value="GRAPH / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="820" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="CARB / ZIL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="USDT / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="870" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-41" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="770" width="20" height="140" as="geometry" />
+          <mxGeometry x="450" y="770" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-46" value="Launch Pools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="740" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
