@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T21:42:28.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CYDDbEdQotUk_nsLxT-g" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T21:44:37.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="OU3DnBxkE5CToRcxEGAU" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1202" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,13 +103,13 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-30" value="250K ZIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-34" value="ZIL / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-34" value="ZIL / CARB&lt;br&gt;(250K ZIL)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="830" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-37" value="ZUSDT / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-37" value="ZUSDT / CARB&lt;br&gt;(10K ZUSDT)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="GRAPH / CARB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="GRAPH / CARB&lt;br&gt;(5K GRAPH)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-46" value="Launch Pools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
