@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T23:48:08.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QsoAsnlc25FpyDTRdn9R" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T23:50:25.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="aRklDygZgRykEfEbbjNz" version="16.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1351" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,12 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f5wqm6YAVryBw6JpzlOn-0" value="ZIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CI9n8jhhGB8RwnVAwCXR-31">
-          <mxGeometry x="-0.4643" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-15" value="Partially remove Liquidity from ZilSwap&lt;br&gt;&lt;br&gt;Leaving half the amount of GRPH in pool." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-15" value="Remove half the liquidity&lt;br&gt;from ZilSwap" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="440" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;endSize=8;strokeWidth=2;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-23" target="CI9n8jhhGB8RwnVAwCXR-0" edge="1">
