@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T00:18:36.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tx0ihm3aKyPD2y4fzY2C" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T05:37:49.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="q1Mw3710gaukLQZ6PBgm" version="16.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1351" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,7 +26,7 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=8;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CI9n8jhhGB8RwnVAwCXR-3" target="CI9n8jhhGB8RwnVAwCXR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-3" value="ZilSwap Pool&lt;br&gt;(95K GRPH)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-3" value="ZilSwap Pool&lt;br&gt;(50K GRPH)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiB2aWV3Qm94PSItMC4wMDcwMDM3ODQxNzk2ODc1IDAgMzA4LjEwMTk4OTc0NjA5Mzc1IDQzNi4wNTU5OTk3NTU4NTk0IiB3aWR0aD0iMjAwLjAwMTI5MTYyMzU1OTciIGhlaWdodD0iMTk5Ljk3OTgyMTAyOTk3NDQ2Ij48c3R5bGU+LnN0MHtmaWxsOiM0OWMxYmZ9LnN0MXtmaWxsOiMwNzdhOGZ9LnN0MntmaWxsOiMyOThlOTd9PC9zdHlsZT48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOTAuNjkzIC0xMDkpIj48cGF0aCBpZD0icGF0aDBfZmlsbCIgY2xhc3M9InN0MCIgZD0iTTExNy40IDI4OS4ybC02Mi44IDI4TC0xMTIgNDAybDE2Ni42IDgwLjFWMzQ5LjdsNjIuOC0yOC4zVjUxN2wtNjIuOCAyOC0yNDUuMy0xMTcuNHYtNjIuNGwxNjkuOC04My4zLTE2OS44LTgxLjZWMTM3bDYzLjgtMjggMjQ0LjMgMTE3LjZ2NjIuNnoiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTkwLjY5MyAtMTA5KSI+PHBhdGggaWQ9InBhdGgxX2ZpbGwiIGNsYXNzPSJzdDEiIGQ9Ik0tMTkwLjcgMTM3TDU0LjYgMjU0LjZsNjIuOC0yOEwtMTI2LjkgMTA5bC02My44IDI4eiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMDguNjk1IC0xMDAuMzY1KSI+PHBhdGggaWQ9InBhdGgyX2ZpbGwiIGNsYXNzPSJzdDIiIGQ9Ik0zNi42IDI0NS43bDYyLjgtMjh2NjIuNmwtNjIuOCAyOHYtNjIuNnoiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTkwLjY5MyAtMTA2Ljk0NCkiPjxwYXRoIGlkPSJwYXRoM19maWxsIiBjbGFzcz0ic3QwIiBkPSJNLTE5MC43IDEzNXY2My4zbDE2OS44IDgxLjYtMTY5LjggODMuM3Y2Mi40TDU0LjYgNTQzdi02Mi44TC0xMTIgNDAwbDE2Ni42LTg0Ljh2LTYyLjZMLTE5MC43IDEzNXoiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjA4LjY5NSAtOTMuNDExKSI+PHBhdGggaWQ9InBhdGg0X2ZpbGwiIGNsYXNzPSJzdDIiIGQ9Ik0zNi42IDUyOWw2Mi44LTI4VjMwNS40bC02Mi44IDI4LjNWNTI5eiIvPjwvZz48L3N2Zz4=;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -83,7 +83,7 @@
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-37" value="ZUSDT / CARB&lt;br&gt;(10K ZUSDT)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="GRPH / CARB&lt;br&gt;(5K GRAPH)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CI9n8jhhGB8RwnVAwCXR-38" value="GRPH / CARB&lt;br&gt;(50K GRAPH)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CI9n8jhhGB8RwnVAwCXR-46" value="Launch Pools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
