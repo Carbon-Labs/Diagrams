@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T12:49:51.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ZbDSrskw_LeKKcgYwTLa" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T12:50:34.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Kni0Q-xrXElIL7IY5mGl" version="16.4.3" type="github">
   <diagram id="_UXg3EZRKqw_mdlAzJet" name="Page-1">
     <mxGraphModel dx="1256" dy="2263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -99,13 +99,13 @@
         <mxCell id="WOP9kb_ligrmdYlrK7DN-1" value="Distributor&lt;br&gt;Smart Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WOP9kb_ligrmdYlrK7DN-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="WOP9kb_ligrmdYlrK7DN-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="385" y="-120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WOP9kb_ligrmdYlrK7DN-6" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="WOP9kb_ligrmdYlrK7DN-6" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="475" y="-120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WOP9kb_ligrmdYlrK7DN-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="WOP9kb_ligrmdYlrK7DN-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="430" y="-120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WOP9kb_ligrmdYlrK7DN-10" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
