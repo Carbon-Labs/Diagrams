@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:01:37.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DNF-d3X4fVRj4Kqq5ntH" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T04:21:29.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Xm0CSkrJI8MzCJ2iglhm" version="17.1.3" type="github">
   <diagram id="_UXg3EZRKqw_mdlAzJet" name="Page-1">
-    <mxGraphModel dx="1233" dy="2195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1233" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuIaBzUg3UuywY2mTjsj-9" value="Mint your own exclusive&lt;br&gt;Crypto Kiwi&lt;br&gt;(gUSD)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QuIaBzUg3UuywY2mTjsj-9" value="Mint your own exclusive&lt;br&gt;Crypto Kiwi" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="385" y="-679" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QuIaBzUg3UuywY2mTjsj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QuIaBzUg3UuywY2mTjsj-11" target="QuIaBzUg3UuywY2mTjsj-15" edge="1">
