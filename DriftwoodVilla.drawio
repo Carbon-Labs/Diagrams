@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T00:48:49.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1nIX6g_hPkXTSRvcMKsx" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T00:51:10.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="3Y_oVdolzm_EjN5f2CSY" version="18.0.4" type="github">
   <diagram id="VY14Kp2bZg2UIhSIN0tL" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-HRDvgDwT7PZsZXaRJc-1" value="PriceLabs&lt;br&gt;(Dynamic Pricing)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-1" value="PriceLabs&lt;br&gt;(Dynamic Pricing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="554" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2" target="a-HRDvgDwT7PZsZXaRJc-1">
@@ -29,13 +29,13 @@
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2" target="a-HRDvgDwT7PZsZXaRJc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-HRDvgDwT7PZsZXaRJc-2" value="BookingAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-2" value="BookingAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="554" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-9" value="Updates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-3" target="a-HRDvgDwT7PZsZXaRJc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-HRDvgDwT7PZsZXaRJc-3" value="ChargeAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-3" value="ChargeAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="554" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-10" target="a-HRDvgDwT7PZsZXaRJc-2">
