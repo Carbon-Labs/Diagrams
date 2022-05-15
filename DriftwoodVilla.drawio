@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T00:51:10.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="3Y_oVdolzm_EjN5f2CSY" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T03:55:32.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="WiE2AFOQ7YDa_3ja17dI" version="18.0.4" type="github">
   <diagram id="VY14Kp2bZg2UIhSIN0tL" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,20 +23,61 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-HRDvgDwT7PZsZXaRJc-8" value="Bookings" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2" target="a-HRDvgDwT7PZsZXaRJc-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2" target="a-HRDvgDwT7PZsZXaRJc-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="584" y="490" />
+              <mxPoint x="70" y="490" />
+              <mxPoint x="70" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.633;exitY=0.983;exitDx=0;exitDy=0;startArrow=none;startFill=0;exitPerimeter=0;entryX=0.125;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-2" target="a-HRDvgDwT7PZsZXaRJc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-46" value="Bookings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="a-HRDvgDwT7PZsZXaRJc-45">
+          <mxGeometry x="-0.1426" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-2" value="BookingAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="554" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a-HRDvgDwT7PZsZXaRJc-9" value="Updates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-3" target="a-HRDvgDwT7PZsZXaRJc-2">
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.125;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;exitPerimeter=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="510" />
+              <mxPoint x="50" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-40" value="Communication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a-HRDvgDwT7PZsZXaRJc-39">
+          <mxGeometry x="-0.1108" y="1" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-3" target="a-HRDvgDwT7PZsZXaRJc-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-43" value="Automated Payment&lt;br&gt;Processing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="a-HRDvgDwT7PZsZXaRJc-42">
+          <mxGeometry x="0.0348" y="2" relative="1" as="geometry">
+            <mxPoint x="17" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-3" value="ChargeAutomation&lt;br&gt;(PMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="554" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="a-HRDvgDwT7PZsZXaRJc-10" target="a-HRDvgDwT7PZsZXaRJc-2">
           <mxGeometry relative="1" as="geometry">
@@ -144,6 +185,14 @@
         </mxCell>
         <mxCell id="a-HRDvgDwT7PZsZXaRJc-37" value="Availability / Rates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="489" y="272" as="geometry" />
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-41" value="Stripe&lt;br&gt;(CC Processor)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="615" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-HRDvgDwT7PZsZXaRJc-48" value="Updates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="657.9971389920906" y="331.99955677018363" as="geometry">
+            <mxPoint x="-2" y="-0.9999999999999999" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
