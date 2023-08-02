@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T20:15:45.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FXVYpoYHqxLQ857Ci5_S" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T20:22:59.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VBunb6XdIzvQal-UU0FZ" version="21.6.5" type="github">
   <diagram name="Page-1" id="Sy7ZPnISKPwJCZqJHa9-">
     <mxGraphModel dx="954" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,23 +50,26 @@
         <mxCell id="g28DyvrE0BORjtrksPhm-16" value="Update Polygon Addy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g28DyvrE0BORjtrksPhm-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="20" height="120" as="geometry" />
+        <mxCell id="g28DyvrE0BORjtrksPhm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-19" target="g28DyvrE0BORjtrksPhm-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g28DyvrE0BORjtrksPhm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-19" target="g28DyvrE0BORjtrksPhm-13">
+        <mxCell id="g28DyvrE0BORjtrksPhm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-19" target="g28DyvrE0BORjtrksPhm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g28DyvrE0BORjtrksPhm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-19" target="g28DyvrE0BORjtrksPhm-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g28DyvrE0BORjtrksPhm-19" value="Has CARB Locked" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g28DyvrE0BORjtrksPhm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-27" target="g28DyvrE0BORjtrksPhm-16">
+        <mxCell id="g28DyvrE0BORjtrksPhm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-27" target="g28DyvrE0BORjtrksPhm-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g28DyvrE0BORjtrksPhm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="g28DyvrE0BORjtrksPhm-27" target="g28DyvrE0BORjtrksPhm-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g28DyvrE0BORjtrksPhm-27" value="Has CARB Locked" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g28DyvrE0BORjtrksPhm-27" value="No CARB Locked" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g28DyvrE0BORjtrksPhm-33" value="Lock CARB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
